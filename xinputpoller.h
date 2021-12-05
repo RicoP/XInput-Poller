@@ -1,3 +1,6 @@
+// (C) Rico Possienka
+// License MIT
+
 #include <Xinput.h>
 #include "thread.h" //https://github.com/mattiasgustavsson/libs/blob/main/thread.h
 
